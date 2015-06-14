@@ -1,0 +1,16 @@
+{
+    "name": "swjtuXszc",
+    "description": "user Node.js to cheat swjtu dean xszc time system",
+    "version": "1.0.0",
+    "license": "GPL",
+    
+    "keywords": ["swjtu", "swjtuxszc"],
+    "author": "jtu唐<jtutang@163.com>",
+    "contributors": [
+    ],
+    
+    "main": "./swjtuXszc.js",
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}
